@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Jotai Demo",
-  description: "A simple demo app using Jotai state management with Next.js.",
+  title: "Deck.gl Demo",
+  description: "Interactive visualization demo using Deck.gl and Next.js.",
 };
 
 export default function RootLayout({
